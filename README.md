@@ -27,3 +27,7 @@ Nili Lotan is a store based in New York City that takes pride in elevated, clean
 
 Using BeautifulSoup, Requests, and Pandas, we scraped valuable market data from their websites to draw our insights from. We scraped each website for vendors, product names, and categories in preparation to examine luxury product selection on the market. We then scraped the websites for product prices and categorized them by tier of luxury to better understand local luxury market pricing. Finally, we scraped the sites for product link, product description, product details, size guides, and the number of pictures on individual product detail pages. This was to aid in generating conclusions about competitors’ product transparency and demand-side knowledge. From here, we also extracted lexical diversity and description length to gain a deeper understanding of competitors’ tonal richness when providing product information. 
 
+# 2. Overview of Data Structure
+Our individual retailer datasets were combined into a single dataframe containing 308 products. The dataset’s 12 columns contain information about products sold, pricing, and provided product details, as seen in **Figure 1**. 
+
+**Figure 1**
