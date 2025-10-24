@@ -31,7 +31,7 @@ Using BeautifulSoup, Requests, and Pandas, we scraped valuable market data from 
 Our individual retailer datasets were combined into a single dataframe containing 308 products. The dataset’s 12 columns contain information about products sold, pricing, and provided product details, as seen in **Figure 1**. 
 
 ![columns-image](/Data_Bootcamp/columns.png)
-<sub>**Figure 1.**</sub>
+<sub>**Figure 1.**Summary of Data Structure</sub>
 
 # 3. Conclusions
 ## 3.1 What types of products do other retailers offer?
