@@ -37,7 +37,7 @@ Using BeautifulSoup, Requests, and Pandas, we scraped valuable market data from 
 Our individual retailer datasets were combined into a single dataframe containing 308 products. The dataset’s 12 columns contain information about products sold, pricing, and provided product details, as seen in **Figure 1**. 
 
 ![columns-image](/Data_Bootcamp/columns.png)
-<sub>**Figure 1.**Summary of Data Structure.</sub>
+<sub>**Figure 1.** Summary of Data Structure.</sub>
 
 The dataset includes several key columns that facilitate both qualitative and quantitative analyses. The ‘Category’ column classifies products to capture the range and diversity of products across retailers. The ‘Descriptions’ and ‘Product Details’ columns provide qualitative information, which serves as the foundation for quantitative measures such as ‘Lexical Diversity’ and ‘Description Length’, offering insights into how linguistic expression and product positioning relate to measurable characteristics within the dataset. The ‘Price’ column, formatted as a float, enables the categorization of products into defined ‘Luxury Tiers’, while the ‘Number of Pictures’ column reflects the degree of visual representation and richness for each product entry.
 
