@@ -71,7 +71,7 @@ IF SOHO New York, La Garçonne, and Nili Lotan occupy distinct market positions 
 ![price-vs-desc](/Data_Bootcamp/price_vs_description.png) <br/>
 <sub>**Figure 5.** Relationship between price and description length.</sub>
 
-To observe whether or not there is a relationship between product price and description length, we created a regression plot with a line of best fit. The regression plot in **Figure 5** shows a weak correlation of 0.3 between description length and product price. We conclude that while description length is not a large factor affecting price, perhaps a longer, more detailed description could be used to explain high product prices to customers. Hence, the product details are expected to vary as TLS aims to target different tiers of the market in order to provide buyers with services appropriate to their respective segments.
+To observe whether or not there is a relationship between product price and description length, we created a regression plot with a line of best fit. The regression plot in **Figure 5** shows a weak correlation of 0.3 between description length and product price. We conclude that while description length is not a large factor affecting price, perhaps a longer, more detailed description could be used to explain high product prices to customers. Hence, the product details are expected to vary as TLS aims to target different tiers of the market in order to provide buyers with services appropriate to their respective sectors.
 
 ![size-guide](/Data_Bootcamp/size_guide.png) <br/>
 <sub>**Figure 6.** Prevalence of size guides on product detail pages by retailer.</sub>
