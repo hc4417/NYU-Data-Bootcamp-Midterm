@@ -48,22 +48,22 @@ From our dataset, we created bar charts (**Figure 2**) depicting the distributio
 To assess how localized luxury products are distributed across luxury tiers, we created pie charts for each competitor of interest. Our data, shown in **Figure 3**, indicates that most products fall into the category of accessible luxury, the tier comprising 53.8% of La Garçonne’s products, 80.6% of IF SOHO’s products, and 50% of Nili Lotan’s products. Affordable fashion comprised the second largest part of La Garçonne and Nili Lotan’s products, while high luxury makes up the second largest part of IF SOHO’s products. These distributions suggest that the local luxury industry largely caters to upper-middle-class and lower-upper-class customers. 
 
 ## 3.2 How are competitors pricing their products?
-Competitor pricing is an essential component TLS will have to consider when opening a new store, as it contributes to brand identity, customer perception, competitiveness, and profitability. Due to New York City’s position as a global fashion capital, with highly discerning consumers and intense competition, pricing decisions carry strategic importance beyond supply costs.<br/>
+Competitor pricing is an essential component TLS will have to consider when opening a new store, as it contributes to brand identity, customer perception, competitiveness, and profitability. Due to New York City’s position as a global fashion capital, with highly discerning consumers and intense competition, pricing decisions carry strategic importance beyond supply costs.
 
-![price-comparison](/Data_Bootcamp/price_comparison.png)
+![price-comparison](/Data_Bootcamp/price_comparison.png) <br/>
 <sub>**Figure 4.** Distribution of prices across retailers.</sub>
 
 We created a box plot to compare product prices across the selected retailers of interest. Our data showed that the price of all items carried by local retailers averaged around $1200. A general distribution of these prices is shown below in the Total column of **Figure 4**. This column indicated a broad price range of $0, meaning a product was sold out or unavailable for sale, to $6395. Across specific retailers, however, these metrics changed drastically. For instance, our data reflected that IF SOHO’s product prices averaged around $1510, La Garçonne’s averaged around $782, and Nili Lotan’s prices averaged $1122. Furthermore, the data showed that 75% of IF SOHO’s products fell within the range of $425 to around $1800, while La Garçonne and Nili Lotan fell into ranges $0 to ~$800 and $300 to ~$1500, respectively. These results were demonstrative of some pricing flexibility in the luxury fashion market that TLS should keep in mind when pricing products.
 
 ## 3.3 What product details and information do other retailers give their customers? 
- Product transparency is a key component of consumer trust in the luxury e-commerce space. While luxury brands often want to maintain exclusivity and mystique, a balance of product detail is required to assure quality and justify premium pricing.<br/>
+ Product transparency is a key component of consumer trust in the luxury e-commerce space. While luxury brands often want to maintain exclusivity and mystique, a balance of product detail is required to assure quality and justify premium pricing.
 
-![price-vs-desc](/Data_Bootcamp/price_vs_description.png)
+![price-vs-desc](/Data_Bootcamp/price_vs_description.png) <br/>
 <sub>**Figure 5.** Relationship between price and description length.</sub>
 
-To observe whether or not there is a relationship between product price and description length, we created a regression plot with a line of best fit. The regression plot in **Figure 5** shows a weak correlation of 0.3 between description length and product price. We conclude that while description length is not a large factor affecting price, perhaps a longer, more detailed description could be used to explain high product prices to customers. <br/>
+To observe whether or not there is a relationship between product price and description length, we created a regression plot with a line of best fit. The regression plot in **Figure 5** shows a weak correlation of 0.3 between description length and product price. We conclude that while description length is not a large factor affecting price, perhaps a longer, more detailed description could be used to explain high product prices to customers. 
 
-![size-guide](/Data_Bootcamp/size_guide.png)
+![size-guide](/Data_Bootcamp/size_guide.png) <br/>
 <sub>**Figure 6.** Prevalence of size guides on product detail pages by retailer.</sub>
 
 Furthermore, isolating retailers and products in a stacked bar plot (**Figure 6**) indicated that retailers provide size guides for around 80% of their products. This visibility of sizing charts on product pages reflects an industry standard of commitment to customer experience, transparency, and benefits reputation. 
